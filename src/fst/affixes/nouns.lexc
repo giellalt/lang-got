@@ -2,14 +2,30 @@
 !  ---------------
 !! The Gothic language nouns inflect in cases.
 
-LEXICON Cases
-+N+sg+nom:0     #   ;
-+N+pl+nom:i     #   ;
-+N+sg+loc:as    #   ;
-+N+pl+loc:ias   #   ;
-+N+sg+acc:at    #   ;
-+N+pl+acc:iat   #   ;
-#:0   Nouns   ;
+
+LEXICON dag__N
+
++N+Sg+Nom:s     #   ;
++N+Pl+Nom:ōs    #   ;
++N+Sg+Gen:is    #   ;
++N+Pl+Gen:ē    #   ;
++N+Sg+Gen:a     #   ;
++N+Pl+Gen:am    #   ;
++N+Sg+Acc:0     #   ;
++N+Pl+Acc:ans   #   ;
+
+
+LEXICON waúrd__N
+
++N+Sg+Nom:0     #   ;
++N+Pl+Nom:a     #   ;
++N+Sg+Gen:is    #   ;
++N+Pl+Gen:ē    #   ;
++N+Sg+Gen:a     #   ;
++N+Pl+Gen:am    #   ;
++N+Sg+Acc:0     #   ;
++N+Pl+Acc:a     #   ;
+
 
 ! vim: set ft=xfst-lexc:
 

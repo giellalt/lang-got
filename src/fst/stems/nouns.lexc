@@ -3,6 +3,8 @@
 !! Nouns in the Gothic language are things.
 
 LEXICON Nouns
-noun    Cases   ;
+
+dag+N:dag    dag__N   ;
+waúrd+N:waúrd  waúrd__N ;
 
 ! vim: set ft=xfst-lexc:
