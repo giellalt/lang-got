@@ -4,5 +4,10 @@
 
 LEXICON Verbs
 verb    Persons   ;
+steigan+V:st st/eigan__V "Ia ascend" ;
+
+baíran+V:b b/airan__V "IVb bear" ;
+
+nasjan+V:nas nas/jan__V "save" ;
 
 ! vim: set ft=xfst-lexc:

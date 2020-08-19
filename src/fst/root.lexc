@@ -39,7 +39,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 !! The nominals are inflected in the following Case and Number
  +Sg +Du +Pl
- +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh
+ +Dat +Nom +Gen +Acc
+ +Msc +Fem +Neu
 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
@@ -49,7 +50,13 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
  +Attr +Card
  +Ord 
 !! Verb moods are:
- +Ind +Prs +Prt +Pot +Cond +Imprt
+ +Ind !!≈ * @CODE@ =  indicative
+ +Sbj !!≈ * @CODE@ =  subjuntive
+ +Prs +Prt
+ +Imprt !!≈ * @CODE@ = imperative
+ +Act !!≈ * @CODE@ = active
+ +Pss !!≈ * @CODE@ = passive
+ 
 !! Verb personal forms are:
  +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
 !! Other verb forms are
@@ -105,6 +112,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 !! And following triggers to control variation
  {front} {back}
+%^WGStem 
 
 !! !!Flag diacritics
 !! We have manually optimised the structure of our lexicon using following

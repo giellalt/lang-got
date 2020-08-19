@@ -3,28 +3,176 @@
 !! The Gothic language nouns inflect in cases.
 
 
-LEXICON dag__N
+LEXICON dag/s__N
+!Msc http://lexicon.ff.cuni.cz/html/goth_wright/b0085.html
+! a-stem
++Sg+Nom:s     #   ;
++Pl+Nom:ōs    #   ;
++Sg+Acc:0     #   ;
++Pl+Acc:ans   #   ;
++Sg+Gen:is    #   ;
++Pl+Gen:ē    #   ;
++Sg+Dat:a     #   ;
++Pl+Dat:am    #   ;
 
-+N+Sg+Nom:s     #   ;
-+N+Pl+Nom:ōs    #   ;
-+N+Sg+Gen:is    #   ;
-+N+Pl+Gen:ē    #   ;
-+N+Sg+Gen:a     #   ;
-+N+Pl+Gen:am    #   ;
-+N+Sg+Acc:0     #   ;
-+N+Pl+Acc:ans   #   ;
+LEXICON wair/__N
+!Msc http://lexicon.ff.cuni.cz/html/goth_wright/b0085.html
+! a-stem
++Sg+Nom:0     #   ;
++Pl+Nom:ōs    #   ;
++Sg+Acc:0     #   ;
++Pl+Acc:ans   #   ;
++Sg+Gen:is    #   ;
++Pl+Gen:ē    #   ;
++Sg+Dat:a     #   ;
++Pl+Dat:am    #   ;
+
+LEXICON hlai/fs__N ! hlaifs:hlaib
+!https://lrc.la.utexas.edu/eieol/gotol/10
+!Msc a-stem
++Sg+Nom:fs     #   ;
++Pl+Nom:bōs    #   ;
++Sg+Acc:f     #   ;
++Pl+Acc:bans   #   ;
++Sg+Gen:bis    #   ;
++Pl+Gen:bē    #   ;
++Sg+Dat:ba     #   ;
++Pl+Dat:bam    #   ;
+
+LEXICON har/jis__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+!Msc ja-stem 
++Sg+Nom:jis     #   ;
++Pl+Nom:jōs    #   ;
++Sg+Acc:i     #   ;
++Pl+Acc:jans   #   ;
++Sg+Gen:jis    #   ;
++Pl+Gen:jē    #   ;
++Sg+Dat:ja     #   ;
++Pl+Dat:jam    #   ;
+
+LEXICON haird/eis__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+!Msc ja-stem 
++Sg+Nom:eis     #   ;
++Pl+Nom:jōs    #   ;
++Sg+Acc:i     #   ;
++Pl+Acc:jans   #   ;
++Sg+Gen:eis    #   ;
++Pl+Gen:jē    #   ;
++Sg+Dat:ja     #   ;
++Pl+Dat:jam    #   ;
+
+LEXICON thi/us__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+!Msc wa-stem 
++Sg+Nom:us     #   ;
++Pl+Nom:wōs    #   ;
++Sg+Acc:u     #   ;
++Pl+Acc:wans   #   ;
++Sg+Gen:wis    #   ;
++Pl+Gen:wē    #   ;
++Sg+Dat:wa     #   ;
++Pl+Dat:wam    #   ;
 
 
 LEXICON waúrd__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+! a-stem
++Sg+Nom:0     #   ;
++Pl+Nom:a     #   ;
++Sg+Acc:0     #   ;
++Pl+Acc:a     #   ;
++Sg+Gen:is    #   ;
++Pl+Gen:ē    #   ;
++Sg+Dat:a     #   ;
++Pl+Dat:am    #   ;
 
-+N+Sg+Nom:0     #   ;
-+N+Pl+Nom:a     #   ;
-+N+Sg+Gen:is    #   ;
-+N+Pl+Gen:ē    #   ;
-+N+Sg+Gen:a     #   ;
-+N+Pl+Gen:am    #   ;
-+N+Sg+Acc:0     #   ;
-+N+Pl+Acc:a     #   ;
+LEXICON wito/th__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+! a-stem
++Sg+Nom:þ     #   ;
++Pl+Nom:da     #   ;
++Sg+Acc:þ     #   ;
++Pl+Acc:da     #   ;
++Sg+Gen:dis    #   ;
++Pl+Gen:dē    #   ;
++Sg+Dat:da     #   ;
++Pl+Dat:dam    #   ;
+
+LEXICON kun/i__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+! ja-stem
++Sg+Nom:i     #   ;
++Pl+Nom:ja     #   ;
++Sg+Acc:i     #   ;
++Pl+Acc:ja     #   ;
++Sg+Gen:jis    #   ;
++Pl+Gen:jē    #   ;
++Sg+Dat:ja     #   ;
++Pl+Dat:jam    #   ;
+
+LEXICON kni/u__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+!Neu wa-stem
++Sg+Nom:u     #   ;
++Pl+Nom:wa     #   ;
++Sg+Acc:u     #   ;
++Pl+Acc:wa     #   ;
++Sg+Gen:wis    #   ;
++Pl+Gen:wē    #   ;
++Sg+Dat:wa     #   ;
++Pl+Dat:wam    #   ;
+
+LEXICON gib/a__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+!Fem ō-stem
++Sg+Nom:a     #   ;
++Pl+Nom:ōs     #   ;
++Sg+Acc:a     #   ;
++Pl+Acc:ōs     #   ;
++Sg+Gen:ōs    #   ;
++Pl+Gen:ō    #   ;
++Sg+Dat:ái     #   ;
++Pl+Dat:ōm    #   ;
+
+LEXICON band/i__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+!Fem jō-stem
++Sg+Nom:i     #   ;
++Pl+Nom:jōs     #   ;
++Sg+Acc:ja     #   ;
++Pl+Acc:jōs     #   ;
++Sg+Gen:jōs    #   ;
++Pl+Gen:jō    #   ;
++Sg+Dat:jái     #   ;
++Pl+Dat:jōm    #   ;
+
+LEXICON ma/wi__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+!Fem jō-stem
++Sg+Nom:awi     #   ;
++Pl+Nom:áujōs     #   ;
++Sg+Acc:áuja     #   ;
++Pl+Acc:áujōs     #   ;
++Sg+Gen:áujōs    #   ;
++Pl+Gen:áujō    #   ;
++Sg+Dat:áujái     #   ;
++Pl+Dat:áujōm    #   ;
+
+LEXICON tryggw/a__N
+!https://lrc.la.utexas.edu/eieol/gotol/10
+!Fem wō-stem
++Sg+Nom:a     #   ;
++Pl+Nom:ōs     #   ;
++Sg+Acc:a     #   ;
++Pl+Acc:ōs     #   ;
++Sg+Gen:ōs    #   ;
++Pl+Gen:ō    #   ;
++Sg+Dat:ái     #   ;
++Pl+Dat:ōm    #   ;
+
+
 
 
 ! vim: set ft=xfst-lexc:

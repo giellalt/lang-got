@@ -4,7 +4,27 @@
 
 LEXICON Nouns
 
-dag+N:dag    dag__N   ;
-waúrd+N:waúrd  waúrd__N ;
+dags+N:dag    dag/s__N "day"  ;
+waír+N:waír    wair/__N "man"  ;
+baúr+N:baúr    wair/__N "son"  ;
+hláifs+N:hlái    hlai/fs__N "bread"  ;
+harjis+N:har har/jis__N "army" ;
+haírdeis+N:haírd haird/eis__N "army" ;
+þius+N:þi thi/uis__N "army" ;
+
+háubiþ+N:háubiþ  waúrd__N "head" ;
+waúrd+N:waúrd  waúrd__N "word" ;
+witōþ+N:witō  wito/th__N "law" ;
+kuni+N:kun kun/i__N "race" ;
+reiki+N:reik kun/i__N "kingdom" ;
+kniu+N:kni kni/u__N "knee" ;
+
+giba+N:gib gib/a__N "gift" ;
+sunja+N:sunj gib/a__N "truth" ;
+
+bandi+N:band band/i__N "band, bond" ;
+mawi+N:m m/awi__N "maiden" ;
+
+triggwa+N:triggw triggw/a__N "covenant" ;
 
 ! vim: set ft=xfst-lexc:

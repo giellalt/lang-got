@@ -2,15 +2,143 @@
 !  ---------------
 !! The Gothic language verbs inflect in persons.
 
-LEXICON Persons
-+V+1sg:en   #   ;
-+V+2sg:et   #   ;
-+V+3sg:e    #   ;
-+V+1pl:ien  #   ;
-+V+2pl:iet  #   ;
-+V+3pl:iet  #   ;
-+V+inf:0    #   ;
-#:0   Nouns   ;
+
+LEXICON st/eigan__V
+! Ia
++Act+Ind+Prt+Sg1:áig # ;
++Act+Ind+Prt+Pl1:igum # ;
++Act+PrfPrc:igans # ;
+
+
+LEXICON b/airan__V
+! IVb
++Inf:aíran # ;
++Act+PrsPrc:aírands # ;
++Act+PrfPrc:aúrans # ;
+
++Act+Ind+Prs+Sg1:aíra # ;
++Act+Ind+Prs+Sg2:aíris # ;
++Act+Ind+Prs+Sg3:aíriþ # ;
++Act+Ind+Prs+Du1:aírōs # ;
++Act+Ind+Prs+Du2:aírats # ;
++Act+Ind+Prs+Pl1:aíram # ;
++Act+Ind+Prs+Pl2:aíriþ # ;
++Act+Ind+Prs+Pl3:aírand # ;
+
++Act+Ind+Prt+Sg1:ar # ;
++Act+Ind+Prt+Sg2:art # ;
++Act+Ind+Prt+Sg3:ar # ;
++Act+Ind+Prt+Du1:ēru # ;
++Act+Ind+Prt+Du2:ēruts # ;
++Act+Ind+Prt+Pl1:ērum # ;
++Act+Ind+Prt+Pl2:ēruþ # ;
++Act+Ind+Prt+Pl3:ērun # ;
+
++Act+Sbj+Prs+Sg1:aíráu # ;
++Act+Sbj+Prs+Sg2:aíráis # ;
++Act+Sbj+Prs+Sg3:aírái # ;
++Act+Sbj+Prs+Du1:aíráwa # ;
++Act+Sbj+Prs+Du2:aíráits # ;
++Act+Sbj+Prs+Pl1:aíráima # ;
++Act+Sbj+Prs+Pl2:aíráiþ # ;
++Act+Sbj+Prs+Pl3:aíráina # ;
+
++Act+Sbj+Prt+Sg1:ērjáu # ;
++Act+Sbj+Prt+Sg2:ēreis # ;
++Act+Sbj+Prt+Sg3:ēri # ;
++Act+Sbj+Prt+Du1:ēreiwa # ;
++Act+Sbj+Prt+Du2:ēreits # ;
++Act+Sbj+Prt+Pl1:ēreima # ;
++Act+Sbj+Prt+Pl2:ēreiþ # ;
++Act+Sbj+Prt+Pl3:ēreina # ;
+
++Act+Imprt+Sg2:aír # ;
++Act+Imprt+Sg3:aíradáu # ;
++Act+Imprt+Du2:aírats # ;
++Act+Imprt+Pl1:aíram # ;
++Act+Imprt+Pl2:aíriþ # ;
++Act+Imprt+Pl3:aírandáu # ;
+
++Pss+Ind+Prs+Sg1:aírada # ;
++Pss+Ind+Prs+Sg2:aíraza # ;
++Pss+Ind+Prs+Sg3:aírada # ;
++Pss+Ind+Prs+Pl1:aíranda # ;
++Pss+Ind+Prs+Pl2:aíranda # ;
++Pss+Ind+Prs+Pl3:aíranda # ;
+
++Pss+Sbj+Prs+Sg1:aíráidáu # ;
++Pss+Sbj+Prs+Sg2:aíráizáu # ;
++Pss+Sbj+Prs+Sg3:aíráidáu # ;
++Pss+Sbj+Prs+Pl1:aíráindáu # ;
++Pss+Sbj+Prs+Pl2:aíráindáu # ;
++Pss+Sbj+Prs+Pl3:aíráindáu # ;
+
+!!
+LEXICON nas/jan__V
+! I weak
++Inf:jan # ;
++Act+PrsPrc:jands # ;
++Act+PrfPrc:iþs # ;
+
++Act+Ind+Prs+Sg1:ja # ;
++Act+Ind+Prs+Sg2:jis # ;
++Act+Ind+Prs+Sg3:jiþ # ;
++Act+Ind+Prs+Du1:jōs # ;
++Act+Ind+Prs+Du2:jats # ;
++Act+Ind+Prs+Pl1:jam # ;
++Act+Ind+Prs+Pl2:jiþ # ;
++Act+Ind+Prs+Pl3:jand # ;
+
++Act+Ind+Prt+Sg1:ida # ;
++Act+Ind+Prt+Sg2:idēs # ;
++Act+Ind+Prt+Sg3:ida # ;
++Act+Ind+Prt+Du1:idēdu # ;
++Act+Ind+Prt+Du2:idēduts # ;
++Act+Ind+Prt+Pl1:idēdum # ;
++Act+Ind+Prt+Pl2:idēduþ # ;
++Act+Ind+Prt+Pl3:idēdun # ;
+
++Act+Sbj+Prs+Sg1:jáu # ;
++Act+Sbj+Prs+Sg2:jáis # ;
++Act+Sbj+Prs+Sg3:jái # ;
++Act+Sbj+Prs+Du1:jáiwa # ;
++Act+Sbj+Prs+Du2:jáits # ;
++Act+Sbj+Prs+Pl1:jáima # ;
++Act+Sbj+Prs+Pl2:jáiþ # ;
++Act+Sbj+Prs+Pl3:jáina # ;
+
++Act+Sbj+Prt+Sg1:idēdjáu # ;
++Act+Sbj+Prt+Sg2:idēdeis # ;
++Act+Sbj+Prt+Sg3:idēdi # ;
++Act+Sbj+Prt+Du1:idēdeiwa # ;
++Act+Sbj+Prt+Du2:idēdeits # ;
++Act+Sbj+Prt+Pl1:idēdeima # ;
++Act+Sbj+Prt+Pl2:idēdeiþ # ;
++Act+Sbj+Prt+Pl3:idēdeina # ;
+
++Act+Imprt+Sg2:ei # ;
++Act+Imprt+Sg3:jadáu # ;
++Act+Imprt+Du2:jats # ;
++Act+Imprt+Pl1:jam # ;
++Act+Imprt+Pl2:jiþ # ;
++Act+Imprt+Pl3:jandáu # ;
+
++Pss+Ind+Prs+Sg1:jada # ;
++Pss+Ind+Prs+Sg2:jaza # ;
++Pss+Ind+Prs+Sg3:jada # ;
++Pss+Ind+Prs+Pl1:janda # ;
++Pss+Ind+Prs+Pl2:janda # ;
++Pss+Ind+Prs+Pl3:janda # ;
+
++Pss+Sbj+Prs+Sg1:jáidáu # ;
++Pss+Sbj+Prs+Sg2:jáizáu # ;
++Pss+Sbj+Prs+Sg3:jáidáu # ;
++Pss+Sbj+Prs+Pl1:jáindáu # ;
++Pss+Sbj+Prs+Pl2:jáindáu # ;
++Pss+Sbj+Prs+Pl3:jáindáu # ;
+
+
+
 
 ! vim: set ft=xfst-lexc:
 
