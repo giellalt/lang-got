@@ -2,6 +2,8 @@
 !  ---------------
 !! The Gothic language nouns inflect in cases.
 
+LEXICON Cases
+# ; ! todo: fix
 
 LEXICON dag/s__N
 !Msc http://lexicon.ff.cuni.cz/html/goth_wright/b0085.html
@@ -62,6 +64,9 @@ LEXICON haird/eis__N
 +Pl+Gen:jē    #   ;
 +Sg+Dat:ja     #   ;
 +Pl+Dat:jam    #   ;
+
+LEXICON thi/uis__N
+thi/us__N ; ! probably should be own lexicon.
 
 LEXICON thi/us__N
 !https://lrc.la.utexas.edu/eieol/gotol/10
@@ -148,6 +153,9 @@ LEXICON band/i__N
 +Sg+Dat:jái     #   ;
 +Pl+Dat:jōm    #   ;
 
+LEXICON m/awi__N
+ma/wi__N ; ! perhaps
+
 LEXICON ma/wi__N
 !https://lrc.la.utexas.edu/eieol/gotol/10
 !Fem jō-stem
@@ -159,6 +167,9 @@ LEXICON ma/wi__N
 +Pl+Gen:áujō    #   ;
 +Sg+Dat:áujái     #   ;
 +Pl+Dat:áujōm    #   ;
+
+LEXICON triggw/a__N
+tryggw/a__N ; ! probably not
 
 LEXICON tryggw/a__N
 !https://lrc.la.utexas.edu/eieol/gotol/10
