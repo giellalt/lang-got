@@ -5,5 +5,8 @@ version = "0.1.0"
 system_pkg_id = "no.divvun.MacDivvun.got"
 
 [windows]
-system_product_code = "REPLACE_WITH_REAL_SYSTEM_PROD_CODE"
-msoffice_product_code = "REPLACE_WITH_REAL_MSOFFICE_PROD_CODE"
+system_product_code = "{AFA56467-151D-4C98-BE23-EA5A5D0FAC52}_is1"
+legacy_product_codes = [
+    { value = "REPLACE_WITH_REAL_SYSTEM_PROD_CODE", kind = "nsis" },
+    { value = "REPLACE_WITH_REAL_MSOFFICE_PROD_CODE", kind = "nsis" }
+]
