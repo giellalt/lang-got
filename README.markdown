@@ -1,6 +1,10 @@
 The Gothic morphology and tools
 ==========================================
 
+[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-got)](https://github.com/giellalt/lang-got/issues)
+[![Build Status](https://github.com/giellalt/lang-got/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-got/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-got)](https://raw.githubusercontent.com/giellalt/lang-got/develop/LICENSE)
+
 This repository contains finite state source files for the Gothic language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under __LICENCE__
@@ -8,10 +12,6 @@ licence, also detailed in the
 [LICENCE](https://github.com/giellalt/lang-got/blob/develop/LICENCE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
-
-[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-got)](https://github.com/giellalt/lang-got/issues)
-[![Build Status](https://github.com/giellalt/lang-got/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-got/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-got)](https://raw.githubusercontent.com/giellalt/lang-got/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-got)
 for the Gothic language by using the [Divvun Installer](http://divvun.no)
