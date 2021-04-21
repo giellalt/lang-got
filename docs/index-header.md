@@ -1,7 +1,7 @@
 # Gothic documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-got)](https://raw.githubusercontent.com/giellalt/lang-got/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-got)](https://raw.githubusercontent.com/giellalt/lang-got/develop/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-got)](https://github.com/giellalt/lang-got/issues)
 [![Build status](https://github.com/giellalt/lang-got/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-got/actions)
 
