@@ -1,3 +1,98 @@
+Noun inflection
+The Gothic language nouns inflect in cases.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proper noun inflection
+The Gothic language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Gothic language adjectives compare.
+
+
+
+Verb inflection
+The Gothic language verbs inflect in persons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================== !
+The Gothic morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Gothic LANGUAGE.
 
@@ -82,6 +177,92 @@ given the proper use of these flags.
 
 The word forms in Gothic language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
+
+Nouns
+Nouns in the Gothic language are things.
+
+
+
+
+
+
+
+Prefixes
+Prefixes in the Gothic language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Gothic language are references to things.
+
+
+Adjectives
+Adjectives in the Gothic language describe things.
+
+
+Verbs
+Verbs in the Gothic language are actions.
+
+
+
+
+Numerals
+Numerals in the Gothic language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
