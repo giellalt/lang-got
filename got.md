@@ -605,72 +605,8 @@ These were the set types.
 
 
 
-Nouns
-Nouns in the Gothic language are things.
-
-
-
-
-
-
-
-Numerals
-Numerals in the Gothic language are numbers.
-
-
-Verbs
-Verbs in the Gothic language are actions.
-
-
-
-
-Prefixes
-Prefixes in the Gothic language are bound to beginning of other words.
-
-
-
-Adjectives
-Adjectives in the Gothic language describe things.
-
-
-Pronouns
-Pronouns in the Gothic language are references to things.
-
-
-=================================== !
-The Gothic morphophonological/twolc rules file !
-=================================== !
-
-
-
-
-
-
-
-
-
-
-* *primus%>s*
-* *primus00*
-
-
-* examples:*
-
-* examples:*
-
-
-* examples:*
-
-* examples:*
-
-# Symbol affixes
-
-
-
-
-
-Noun inflection
-The Gothic language nouns inflect in cases.
+Verb inflection
+The Gothic language verbs inflect in persons.
 
 
 
@@ -701,34 +637,98 @@ nouns, but with a colon (':') as separator.
 
 
 
-Verb inflection
-The Gothic language verbs inflect in persons.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Adjective inflection
 The Gothic language adjectives compare.
+
+
+
+Noun inflection
+The Gothic language nouns inflect in cases.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+=================================== !
+The Gothic morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
+Verbs
+Verbs in the Gothic language are actions.
+
+
+
+
+Pronouns
+Pronouns in the Gothic language are references to things.
+
+
+Numerals
+Numerals in the Gothic language are numbers.
+
+
+Adjectives
+Adjectives in the Gothic language describe things.
+
+
+Prefixes
+Prefixes in the Gothic language are bound to beginning of other words.
+
+
+
+Nouns
+Nouns in the Gothic language are things.
+
+
+
+
 
 
 
@@ -820,22 +820,6 @@ word classes, or optionally from prefixes:
 
 
 
-We describe here how abbreviations are in Gothic are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -886,6 +870,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Gothic are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       [ L A N G U A G E ]  G R A M M A R   C H E C K E R
