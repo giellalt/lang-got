@@ -3,7 +3,7 @@ The Gothic morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-got)](https://github.com/giellalt/lang-got/issues)
 [![Build Status](https://github.com/giellalt/lang-got/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-got/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-got)](https://raw.githubusercontent.com/giellalt/lang-got/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-got)](https://github.com/giellalt/lang-got/blob/main/LICENSE)
 
 This repository contains finite state source files for the Gothic language,
 for building morphological analysers, proofing tools
