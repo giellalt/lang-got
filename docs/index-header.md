@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-got)](https://github.com/giellalt/lang-got/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-got)](https://github.com/giellalt/lang-got/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-got?label=CI)](https://builds.giellalt.org/pipelines/lang-got/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Gothic language model**. 
 
