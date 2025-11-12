@@ -1,6 +1,3 @@
-spellername = "Gothic"
-spellerversion = "0.1.0"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -18,3 +15,15 @@ system_pkg_id = "no.divvun.MacDivvun.got"
 
 [windows]
 system_product_code = "{AFA56467-151D-4C98-BE23-EA5A5D0FAC52}_is1"
+
+[package.speller]
+name = "Gothic"
+version = "0.1.0"
+
+[package.grammar]
+name = "Gothic"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Gothic"
+version = "0.1.0"
